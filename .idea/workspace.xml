@@ -5,18 +5,22 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3f7a4f1d-d0d8-4794-bd75-c2b6fc073ef6" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/formation/coffee/application/port/in/UpdateCoffeeUseCase.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/formation/coffee/domain/model/Review.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/formation/coffee/adapter/in/web/dto/package-info.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/formation/coffee/adapter/in/web/dto/package-info.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/formation/coffee/adapter/in/web/package-info.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/formation/coffee/adapter/in/web/package-info.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/formation/coffee/adapter/out/persistence/package-info.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/formation/coffee/adapter/out/persistence/package-info.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/formation/coffee/adapter/out/transaction/package-info.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/formation/coffee/adapter/out/transaction/package-info.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/formation/coffee/application/port/in/package-info.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/formation/coffee/application/port/in/package-info.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/formation/coffee/application/port/out/package-info.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/formation/coffee/application/port/out/package-info.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/formation/coffee/application/service/package-info.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/formation/coffee/application/service/package-info.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/formation/coffee/config/package-info.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/formation/coffee/config/package-info.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/formation/coffee/domain/model/Coffee.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/formation/coffee/domain/model/Coffee.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/formation/coffee/package-info.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/formation/coffee/package-info.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/formation/coffee/CoffeeHexaSimpleApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/formation/coffee/CoffeeHexaSimpleApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/formation/coffee/adapter/in/web/CoffeeController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/formation/coffee/adapter/in/web/CoffeeController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/formation/coffee/adapter/in/web/CoffeeWebMapper.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/formation/coffee/adapter/in/web/CoffeeWebMapper.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/formation/coffee/adapter/in/web/RestExceptionHandler.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/formation/coffee/adapter/in/web/RestExceptionHandler.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/formation/coffee/adapter/in/web/dto/CoffeeResponse.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/formation/coffee/adapter/in/web/dto/CoffeeResponse.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/formation/coffee/adapter/in/web/dto/CreateCoffeeRequest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/formation/coffee/adapter/in/web/dto/CreateCoffeeRequest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/formation/coffee/adapter/in/web/dto/ReviewResponse.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/formation/coffee/adapter/in/web/dto/ReviewResponse.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/formation/coffee/adapter/in/web/dto/UpdateCoffeeRequest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/formation/coffee/adapter/in/web/dto/UpdateCoffeeRequest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/formation/coffee/adapter/out/persistence/CoffeeJpaEntity.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/formation/coffee/adapter/out/persistence/CoffeeJpaEntity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/formation/coffee/adapter/out/persistence/CoffeeJpaRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/formation/coffee/adapter/out/persistence/CoffeeJpaRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/formation/coffee/adapter/out/persistence/CoffeePersistenceAdapter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/formation/coffee/adapter/out/persistence/CoffeePersistenceAdapter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/formation/coffee/adapter/out/persistence/CoffeePersistenceMapper.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/formation/coffee/adapter/out/persistence/CoffeePersistenceMapper.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/formation/coffee/adapter/out/persistence/ReviewJpaEntity.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/formation/coffee/adapter/out/persistence/ReviewJpaEntity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/formation/coffee/adapter/out/transaction/SpringTransactionRunner.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/formation/coffee/adapter/out/transaction/SpringTransactionRunner.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/formation/coffee/config/UseCaseConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/formation/coffee/config/UseCaseConfig.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,61 +54,61 @@
   </component>
   <component name="NextEditCompletionFeaturesState">
     <decayedCancelled>
-      <entry key="MS100" value="1.9930819801641224" />
-      <entry key="MS500" value="4.907302093702246" />
-      <entry key="S2" value="10.262774535671827" />
-      <entry key="S5" value="12.770358265929538" />
-      <entry key="S10" value="13.819207685106834" />
-      <entry key="S30" value="14.590638725753521" />
-      <entry key="S60" value="14.793275386223945" />
-      <entry key="M2" value="14.896121007251844" />
-      <entry key="M5" value="14.958323662027976" />
-      <entry key="M10" value="14.979140979187965" />
-      <entry key="M15" value="14.98608934780562" />
-      <entry key="M30" value="14.993042353596696" />
-      <entry key="H1" value="14.99652059650679" />
-      <entry key="H2" value="14.998260153153618" />
-      <entry key="H4" value="14.999130040298501" />
-      <entry key="D1" value="14.999855001677474" />
-      <entry key="W1" value="14.999979285830522" />
+      <entry key="MS100" value="1.0" />
+      <entry key="MS500" value="1.0002391162835906" />
+      <entry key="S2" value="1.1244806203387607" />
+      <entry key="S5" value="1.485510135062224" />
+      <entry key="S10" value="2.105163319686772" />
+      <entry key="S30" value="4.123152194634133" />
+      <entry key="S60" value="5.526554273357291" />
+      <entry key="M2" value="6.579086120052158" />
+      <entry key="M5" value="7.3784073989610794" />
+      <entry key="M10" value="7.700673136922387" />
+      <entry key="M15" value="7.973308687466839" />
+      <entry key="M30" value="9.575868115482864" />
+      <entry key="H1" value="12.972565737729893" />
+      <entry key="H2" value="16.65646764618654" />
+      <entry key="H4" value="19.39936067975472" />
+      <entry key="D1" value="22.329813956828872" />
+      <entry key="W1" value="22.902386519350262" />
     </decayedCancelled>
     <decayedSelected>
-      <entry key="MS100" value="0.0" />
-      <entry key="MS500" value="0.0" />
-      <entry key="S2" value="0.0" />
-      <entry key="S5" value="0.0" />
-      <entry key="S10" value="0.0" />
-      <entry key="S30" value="0.0" />
-      <entry key="S60" value="0.0" />
-      <entry key="M2" value="0.0" />
-      <entry key="M5" value="0.0" />
-      <entry key="M10" value="0.0" />
-      <entry key="M15" value="0.0" />
-      <entry key="M30" value="0.0" />
-      <entry key="H1" value="0.0" />
-      <entry key="H2" value="0.0" />
-      <entry key="H4" value="0.0" />
-      <entry key="D1" value="0.0" />
-      <entry key="W1" value="0.0" />
+      <entry key="MS100" value="1.7685273798224002E-48" />
+      <entry key="MS500" value="2.8152849428201123E-10" />
+      <entry key="S2" value="0.004096194690432772" />
+      <entry key="S5" value="0.11095070673182598" />
+      <entry key="S10" value="0.3431194095235437" />
+      <entry key="S30" value="1.1268962413359969" />
+      <entry key="S60" value="1.9682729362779177" />
+      <entry key="M2" value="2.756297548930014" />
+      <entry key="M5" value="3.4326182022396994" />
+      <entry key="M10" value="3.7030886920749264" />
+      <entry key="M15" value="3.7989920561656105" />
+      <entry key="M30" value="3.8979288332519215" />
+      <entry key="H1" value="3.9485661748097605" />
+      <entry key="H2" value="3.9741827097919993" />
+      <entry key="H4" value="3.9870661576029987" />
+      <entry key="D1" value="3.9978408512086903" />
+      <entry key="W1" value="3.9996914641383046" />
     </decayedSelected>
     <decayedShown>
-      <entry key="MS100" value="1.9074178109588316" />
-      <entry key="MS500" value="4.845639045764186" />
-      <entry key="S2" value="10.188378101937865" />
-      <entry key="S5" value="12.724533535152224" />
-      <entry key="S10" value="13.792596395115519" />
-      <entry key="S30" value="14.580824035545168" />
-      <entry key="S60" value="14.78824153417173" />
-      <entry key="M2" value="14.8935717850466" />
-      <entry key="M5" value="14.957296134895804" />
-      <entry key="M10" value="14.978625901920497" />
-      <entry key="M15" value="14.985745670482055" />
-      <entry key="M30" value="14.992870368559178" />
-      <entry key="H1" value="14.996434567368492" />
-      <entry key="H2" value="14.998217129426385" />
-      <entry key="H4" value="14.999108526144957" />
-      <entry key="D1" value="14.999851415667143" />
-      <entry key="W1" value="14.999978773535544" />
+      <entry key="MS100" value="7.96552186633306E-18" />
+      <entry key="MS500" value="5.178330073148995E-4" />
+      <entry key="S2" value="0.24976834675062407" />
+      <entry key="S5" value="0.9841621237883309" />
+      <entry key="S10" value="2.007338200940862" />
+      <entry key="S30" value="5.008898767852807" />
+      <entry key="S60" value="7.3447642167387395" />
+      <entry key="M2" value="9.249166972228716" />
+      <entry key="M5" value="10.77308018328634" />
+      <entry key="M10" value="11.384129447579332" />
+      <entry key="M15" value="11.759055303724228" />
+      <entry key="M30" value="13.467078594659087" />
+      <entry key="H1" value="16.91773359285153" />
+      <entry key="H2" value="20.62893566978448" />
+      <entry key="H4" value="23.385564314523542" />
+      <entry key="D1" value="26.32751018017683" />
+      <entry key="W1" value="26.902057298555384" />
     </decayedShown>
   </component>
   <component name="ProjectColorInfo">{

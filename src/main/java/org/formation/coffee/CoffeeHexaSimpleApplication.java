@@ -9,5 +9,4 @@ public class CoffeeHexaSimpleApplication {
     public static void main(String[] args) {
         SpringApplication.run(CoffeeHexaSimpleApplication.class, args);
     }
-
 }
