@@ -1,5 +1,5 @@
 @NullMarked
-package org.formation.coffee.application.port.in;
+package org.formation.coffee.adapter.out.transaction;
 
 import org.jspecify.annotations.NullMarked;
 
